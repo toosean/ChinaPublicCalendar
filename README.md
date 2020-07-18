@@ -20,6 +20,7 @@
 * Holiday.ics - 假日，实际放假的日期，包括调休上班。
 * InternationalFestival.ics - 公众或国际节日，比如劳动节、儿童节、妇女节等。
 * MovieComing.ics - 新电影上映的日历，仅限内地。
+* NBATournament.ics - NBA 赛事时间表。
 * SnookerTournament.ics - 斯诺克比赛日历，全英文。
 * SolarTerms.ics - 二十四节气日历。
 * TraditionFestival.ics - 传统节日，比如元旦、清明。
