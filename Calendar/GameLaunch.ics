@@ -736,8 +736,8 @@ UID:641d32bdf84495bdacdd656b82a4295bab541f0d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:龍が如く7 光と闇の行方\n[XboxX] [ XB1] [ PC] [XboxX|中] [XboxX|中] [XboxX]
-  [XB1|中] [ XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX|中] [ PS4|中
- ] [ XB1|中] [ PC|中] [ Stadia|中] [XboxX] [XboxX|中] [XboxX]
+  [XB1|中] [ XboxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX|
+ 中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [XboxX] [XboxX]
 DTEND;VALUE=DATE:20201111
 DTSTAMP;VALUE=DATE:20201110
 DTSTART;VALUE=DATE:20201110
@@ -883,9 +883,9 @@ SUMMARY:精灵与萤火意志
 UID:e3f1c34c9e34c921a7fef5b47de4e7693ae434d4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Marvel's Spider-Man\n[PS5] [PS5] [PS4|中] [PS4] [ PC] [ NS|中] [
- PS4] [ PC|中] [ PS5] [ iOS] [PS5] [PC] [ PS5] [PS5|中] [PS5|中] [ PS4|中] [PS
- 5|中] [ PS4|中] [PS5] [PS5] [PS5|中] [PS5|中] [NS|中] [ PS4|中] [ XB1|中] [ Stad
+DESCRIPTION:Marvel's Spider-Man\n[PS5] [PS5] [PS4|中] [PS5|中] [PS4] [ PC] [
+  NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [PS5] [PC] [ PS5] [PS5|中] [PS5|中] [ PS
+ 4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PS5|中] [NS|中] [ PS4|中] [ XB1|中] [ Stad
  ia] [ PS5|中] [ XboxX|中] [PS5]
 DTEND;VALUE=DATE:20201113
 DTSTAMP;VALUE=DATE:20201112
