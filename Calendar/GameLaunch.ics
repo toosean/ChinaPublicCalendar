@@ -1045,8 +1045,8 @@ SUMMARY:噗哟噗哟对俄罗斯方块2
 UID:0ffa8f0b031c2058662af8e39135b6bbc66eb767
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:BRIGANDINE: The Legend of Runersia\n[PS4|中] [XboxX|中] [ PC|中] 
- [PS4] [ NS] [NS|中] [ PS4|中] [ PC|中]
+DESCRIPTION:BRIGANDINE: The Legend of Runersia\n[PS4|中] [PS4|中] [ XB1|中] [
+  PC|中] [ Stadia|中] [XboxX|中] [ PC|中] [PS4] [ NS] [NS|中] [ PS4|中] [ PC|中]
 DTEND;VALUE=DATE:20201211
 DTSTAMP;VALUE=DATE:20201210
 DTSTART;VALUE=DATE:20201210
@@ -1110,10 +1110,10 @@ SUMMARY:御姐玫瑰 起源
 UID:5880251b7d3b94e0a8c57f358fdf35364c0f5170
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Borderlands 3\n[PS5|中] [PS5] [PS5|中] [PS5] [PS5] [PS5|中] [PS4|
- 中] [PS5|中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [PS5|中] [PS5
- ] [PC] [ PS5] [PS5|中] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [NS|中
- ] [ PS4|中] [ XB1|中] [ Stadia] [PS5]
+DESCRIPTION:Borderlands 3\n[PS5|中] [PS5] [PS5|中] [PS5] [PS5] [PS4|中] [PS5|
+ 中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [PS5|中] [PS5] [PC] [
+  PS5] [PS5|中] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PC|中] [ PS5|
+ 中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5]
 DTEND;VALUE=DATE:20201113
 DTSTAMP;VALUE=DATE:20201112
 DTSTART;VALUE=DATE:20201112
@@ -1133,9 +1133,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
  xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
- |中] [XboxX|中] [XboxX] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [Xbox
- X|中] [XboxX] [XboxX] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia
- |中] [XboxX] [XboxX|中] [XboxX] [XboxX] [XB1|中] [ XboxX|中]
+ |中] [XboxX|中] [XboxX] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX|中] [Xbox
+ X] [XboxX] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [XboxX
+ ] [XboxX|中] [XboxX] [XboxX] [XB1|中] [ XboxX|中]
 DTEND;VALUE=DATE:20201111
 DTSTAMP;VALUE=DATE:20201110
 DTSTART;VALUE=DATE:20201110
@@ -1224,5 +1224,14 @@ DTSTART;VALUE=DATE:20201020
 SEQUENCE:0
 SUMMARY:失忆症：重生
 UID:8db40dded3775339549ab15ea13d3709fe4210c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:塊魂アンコール\n[PS4] [ XB1]
+DTEND;VALUE=DATE:20201120
+DTSTAMP;VALUE=DATE:20201119
+DTSTART;VALUE=DATE:20201119
+SEQUENCE:0
+SUMMARY:块魂 安可
+UID:bf15cbe88d8239b9c0327c0a9b8c93537c6c32a0
 END:VEVENT
 END:VCALENDAR
