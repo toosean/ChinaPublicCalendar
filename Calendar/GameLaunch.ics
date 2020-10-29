@@ -1015,9 +1015,9 @@ SUMMARY:双镜
 UID:cd9dbeaf0f8362893be97307b53d6c1de6e9b0fd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:不思議のダンジョン 風来のシレン5plus フォーチュンタワーと運命のダイス\n[NS|中] [ PC|中] [Stadia
- ] [ NS|中] [ PS4|中] [ XB1|中] [ PC|中] [ PS5|中] [ XboxX|中] [NS|中] [ PS4|中] [
-  PS5|中] [NS|中] [NS|中]
+DESCRIPTION:不思議のダンジョン 風来のシレン5plus フォーチュンタワーと運命のダイス\n[NS|中] [ PC|中] [PC|中] 
+ [ PS5|中] [ XboxX|中] [ XB1|中] [Stadia] [ NS|中] [ PS4|中] [ XB1|中] [ PC|中] [
+  PS5|中] [ XboxX|中] [NS|中] [ PS4|中] [ PS5|中] [NS|中] [NS|中]
 DTEND;VALUE=DATE:20201204
 DTSTAMP;VALUE=DATE:20201203
 DTSTART;VALUE=DATE:20201203
@@ -1110,10 +1110,10 @@ SUMMARY:御姐玫瑰 起源
 UID:5880251b7d3b94e0a8c57f358fdf35364c0f5170
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Borderlands 3\n[PS5|中] [PS5] [PS5|中] [PS5] [PS5] [PS4|中] [PS5|
- 中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [PS5|中] [PS5] [PC] [
-  PS5] [PS5|中] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PC|中] [ PS5|
- 中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5]
+DESCRIPTION:Borderlands 3\n[PS5|中] [PS5|中] [PS5|中] [PS5] [PS5] [PS5|中] [PS
+ 4|中] [PS5|中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [PS5|中] [P
+ S5] [PC] [ PS5] [PS5|中] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PC
+ |中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5]
 DTEND;VALUE=DATE:20201113
 DTSTAMP;VALUE=DATE:20201112
 DTSTART;VALUE=DATE:20201112
@@ -1133,9 +1133,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
  xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
- |中] [XboxX|中] [XboxX] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX|中] [Xbox
- X] [XboxX] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [XboxX
- ] [XboxX|中] [XboxX] [XboxX] [XB1|中] [ XboxX|中]
+ |中] [XboxX|中] [XboxX] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [Xbox
+ X|中] [XboxX] [XboxX] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia
+ |中] [XboxX] [XboxX|中] [XboxX] [XboxX] [XB1|中] [ XboxX|中]
 DTEND;VALUE=DATE:20201111
 DTSTAMP;VALUE=DATE:20201110
 DTSTART;VALUE=DATE:20201110
@@ -1153,8 +1153,8 @@ SUMMARY:狙击精英4
 UID:d5884bcee2353c794f701447e3a4df2e78183336
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Destiny 2\n[XboxX|中] [ PS5|中] [NS] [ PS4] [ XB1] [ XboxX] [ PS
- 5]
+DESCRIPTION:Destiny 2\n[XboxX|中] [ PS5|中] [PS5] [NS] [ PS4] [ XB1] [ XboxX
+ ] [ PS5]
 DTEND;VALUE=DATE:20201209
 DTSTAMP;VALUE=DATE:20201208
 DTSTART;VALUE=DATE:20201208
@@ -1233,5 +1233,15 @@ DTSTART;VALUE=DATE:20201119
 SEQUENCE:0
 SUMMARY:块魂 安可
 UID:bf15cbe88d8239b9c0327c0a9b8c93537c6c32a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Control\n[NS|中] [NS|中] [iOS] [ Android] [PC|中] [NS] [PC|中] [ P
+ S4|中] [ XB1|中] [NS|中] [PC]
+DTEND;VALUE=DATE:20201029
+DTSTAMP;VALUE=DATE:20201028
+DTSTART;VALUE=DATE:20201028
+SEQUENCE:0
+SUMMARY:控制
+UID:22382630ef616ea5b73262e9f161d6437039c4e5
 END:VEVENT
 END:VCALENDAR
