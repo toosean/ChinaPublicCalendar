@@ -966,9 +966,9 @@ SUMMARY:献祭与雪之刹那
 UID:0a4207f977040145354662e2f518ce0fdfcc5b82
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:いけにえと雪のセツナ\n[NS|中] [ PS4|中] [PC|中] [ PS4|中] [NS|中] [Stadia|中] 
- [ PS4|中] [ XB1|中] [ PC|中] [NS|中] [ PS4|中] [NS|中] [ PS4|中] [PS4|中] [ NS|中]
-  [PS4] [NS]
+DESCRIPTION:いけにえと雪のセツナ\n[NS|中] [ PS4|中] [Stadia|中] [ PS4|中] [ XB1|中] [ PC|
+ 中] [PC|中] [ PS4|中] [NS|中] [NS|中] [ PS4|中] [NS|中] [ PS4|中] [PS4|中] [ NS|中]
+  [PS4] [NS] [NS|中] [ PS4|中]
 DTEND;VALUE=DATE:20201030
 DTSTAMP;VALUE=DATE:20201029
 DTSTART;VALUE=DATE:20201029
@@ -1111,9 +1111,9 @@ UID:5880251b7d3b94e0a8c57f358fdf35364c0f5170
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Borderlands 3\n[PS5|中] [PS5|中] [PS5|中] [PS5] [PS5] [PS5|中] [PS
- 4|中] [PS5|中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [PS5|中] [P
+ 5|中] [PS4|中] [PS5|中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [P
  S5] [PC] [ PS5] [PS5|中] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PC
- |中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5]
+ |中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5] [PS5|中]
 DTEND;VALUE=DATE:20201113
 DTSTAMP;VALUE=DATE:20201112
 DTSTART;VALUE=DATE:20201112
@@ -1133,8 +1133,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
  xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
- |中] [XboxX|中] [XboxX] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [Xbox
- X|中] [XboxX] [XboxX] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia
+ |中] [XboxX|中] [XboxX] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [Xb
+ oxX] [XboxX] [XboxX] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia
  |中] [XboxX] [XboxX|中] [XboxX] [XboxX] [XB1|中] [ XboxX|中]
 DTEND;VALUE=DATE:20201111
 DTSTAMP;VALUE=DATE:20201110
@@ -1243,5 +1243,14 @@ DTSTART;VALUE=DATE:20201028
 SEQUENCE:0
 SUMMARY:控制
 UID:22382630ef616ea5b73262e9f161d6437039c4e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n[PC|中]
+DTEND;VALUE=DATE:20201101
+DTSTAMP;VALUE=DATE:20201031
+DTSTART;VALUE=DATE:20201031
+SEQUENCE:0
+SUMMARY:恋爱绮谭
+UID:c97517be63dfb69d325e2d96c05ec90d704603b3
 END:VEVENT
 END:VCALENDAR
