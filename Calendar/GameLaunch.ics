@@ -711,7 +711,7 @@ SUMMARY:实况足球2021赛季更新
 UID:4cc2ceb4467a5111b30f691f8c24041ccab99e73
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Shadowverse Champions Battle\n[NS] [NS] [ PS4] [XB1]
+DESCRIPTION:Shadowverse Champions Battle\n[NS] [NS] [ PS4] [XB1] [NS|中]
 DTEND;VALUE=DATE:20201106
 DTSTAMP;VALUE=DATE:20201105
 DTSTART;VALUE=DATE:20201105
@@ -1113,8 +1113,7 @@ BEGIN:VEVENT
 DESCRIPTION:Borderlands 3\n[PS5|中] [PS5|中] [PS5|中] [PS5] [PS5] [PS5|中] [PS
  5|中] [PS4|中] [PS5|中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [P
  S5] [PC] [ PS5] [PS5|中] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PC
- |中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5] [PS5|中] [P
- S5]
+ |中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5] [PS5]
 DTEND;VALUE=DATE:20201113
 DTSTAMP;VALUE=DATE:20201112
 DTSTART;VALUE=DATE:20201112
