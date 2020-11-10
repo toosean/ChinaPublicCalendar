@@ -1111,10 +1111,11 @@ SUMMARY:御姐玫瑰 起源
 UID:5880251b7d3b94e0a8c57f358fdf35364c0f5170
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Borderlands 3\n[PS5|中] [PS5|中] [PS5|中] [PS5] [PS5] [PS5|中] [PS
- 5|中] [PS4|中] [PS5|中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [ iOS] [P
- S5] [PC] [ PS5] [PS5|中] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PC
- |中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5] [PS5]
+DESCRIPTION:Borderlands 3\n[PS5|中] [PS5|中] [PS5|中] [PS5] [PS5|中] [PS5] [PS
+ 5|中] [PS5|中] [PS4|中] [PS5|中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [
+  iOS] [PS5] [PC] [ PS5] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PC
+ |中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5] [PS5|中] [P
+ S5]
 DTEND;VALUE=DATE:20201113
 DTSTAMP;VALUE=DATE:20201112
 DTSTART;VALUE=DATE:20201112
@@ -1134,9 +1135,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
  xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
- |中] [XboxX|中] [XboxX] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [Xb
- oxX] [XboxX] [XboxX] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia
- |中] [XboxX] [XboxX|中] [XboxX] [XboxX] [XB1|中] [ XboxX|中] [XboxX] [PC|中]
+ |中] [XboxX|中] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [XboxX] [Xb
+ oxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX] [XboxX] [Xbo
+ xX] [XboxX] [PC|中] [XboxX|中] [XboxX] [XboxX] [XB1|中] [ XboxX|中] [XboxX] [
+ PC|中]
 DTEND;VALUE=DATE:20201111
 DTSTAMP;VALUE=DATE:20201110
 DTSTART;VALUE=DATE:20201110
@@ -1336,5 +1338,15 @@ DTSTART;VALUE=DATE:20210113
 SEQUENCE:0
 SUMMARY:三国群英传8
 UID:3fb88adf4d0829bdfca2641407ba9f5b9cd88820
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Exit the Gungeon\n[PS4] [ XB1] [NS|中] [ PS4|中] [PS4|中] [ PS5|中
+ ] [ XB1|中] [ PC|中] [ XboxX|中]
+DTEND;VALUE=DATE:20201114
+DTSTAMP;VALUE=DATE:20201113
+DTSTART;VALUE=DATE:20201113
+SEQUENCE:0
+SUMMARY:逃出地牢
+UID:3ff52a6ccee0501424a7b22552de1132a1e26ef2
 END:VEVENT
 END:VCALENDAR
