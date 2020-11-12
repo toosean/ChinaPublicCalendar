@@ -721,7 +721,7 @@ SUMMARY:影之诗 巅峰对决
 UID:b4fe8de1a0c273c90b0f04cbdf98495f2a28c74f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kingdom Hearts: Melody of Memory\n[NS|中] [ PS4|中] [ XB1] [PC|中]
+DESCRIPTION:Kingdom Hearts: Melody of Memory\n[NS|中] [ PS4|中] [ XB1]
 DTEND;VALUE=DATE:20201112
 DTSTAMP;VALUE=DATE:20201111
 DTSTART;VALUE=DATE:20201111
@@ -1111,11 +1111,11 @@ SUMMARY:御姐玫瑰 起源
 UID:5880251b7d3b94e0a8c57f358fdf35364c0f5170
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Borderlands 3\n[PS5|中] [PS5|中] [PS5|中] [PS5] [PS5|中] [PS5] [PS
- 5|中] [PS5|中] [PS4|中] [PS5|中] [PS4|中] [ PC] [ NS|中] [PS4] [ PC|中] [ PS5] [
-  iOS] [PS5] [PC] [ PS5] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [PS5] [PC
- |中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5] [PS5|中] [P
- S5]
+DESCRIPTION:Borderlands 3\n[PS5|中] [PS5|中] [PS5|中] [PS5] [PS5] [PS5|中] [PS
+ 5|中] [PS5|中] [PS4|中] [PS5|中] [PS4|中] [ PC|中] [ NS|中] [PS4|中] [ PC|中] [ PS
+ 5|中] [ iOS|中] [PS5] [PC] [ PS5] [PS5|中] [ PS4|中] [PS5|中] [ PS4|中] [PS5] [
+ PS5] [PC|中] [ PS5|中] [ PS4|中] [NS|中] [ PS4|中] [ XB1|中] [ Stadia] [PS5] [P
+ S5|中] [PS5]
 DTEND;VALUE=DATE:20201113
 DTSTAMP;VALUE=DATE:20201112
 DTSTART;VALUE=DATE:20201112
@@ -1135,10 +1135,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
  xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
- |中] [XboxX|中] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [XboxX] [Xb
+ |中] [XboxX|中] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [Xb
  oxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX] [XboxX] [Xbo
- xX] [XboxX] [PC|中] [XboxX|中] [XboxX] [XboxX] [XB1|中] [ XboxX|中] [XboxX] [
- PC|中]
+ xX] [XboxX] [PC|中] [XboxX|中] [XboxX] [XboxX] [PC|中] [ XB1|中] [ XboxX|中] [
+ XboxX] [PC|中] [XB1|中] [ XboxX|中] [ PC|中]
 DTEND;VALUE=DATE:20201111
 DTSTAMP;VALUE=DATE:20201110
 DTSTART;VALUE=DATE:20201110
@@ -1313,7 +1313,8 @@ SUMMARY:失落领域
 UID:75f666e99ba51a21a8f66011d8a26640a026921d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ファイナルファンタジーIV\n[PC|中] [NS] [XB1] [ PS4] [ PC]
+DESCRIPTION:ファイナルファンタジーIV\n[PC|中] [NS] [XB1] [ PS4] [ PC] [XB1|中] [ PS4|中]
+  [ PC|中]
 DTEND;VALUE=DATE:20201107
 DTSTAMP;VALUE=DATE:20201106
 DTSTART;VALUE=DATE:20201106
@@ -1341,12 +1342,21 @@ UID:3fb88adf4d0829bdfca2641407ba9f5b9cd88820
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Exit the Gungeon\n[PS4] [ XB1] [NS|中] [ PS4|中] [PS4|中] [ PS5|中
- ] [ XB1|中] [ PC|中] [ XboxX|中]
+ ] [ XB1|中] [ PC|中] [ XboxX|中] [NS|中]
 DTEND;VALUE=DATE:20201114
 DTSTAMP;VALUE=DATE:20201113
 DTSTART;VALUE=DATE:20201113
 SEQUENCE:0
 SUMMARY:逃出地牢
 UID:3ff52a6ccee0501424a7b22552de1132a1e26ef2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Alba: A Wildlife Adventure\n[PC|中] [ iOS|中]
+DTEND;VALUE=DATE:20201213
+DTSTAMP;VALUE=DATE:20201212
+DTSTART;VALUE=DATE:20201212
+SEQUENCE:0
+SUMMARY:阿尔巴：荒野冒险
+UID:48ba5dfae0a4622c6f627f34dbf187df03a80cae
 END:VEVENT
 END:VCALENDAR
