@@ -939,10 +939,11 @@ SUMMARY:超级马力欧 3D收藏辑
 UID:cd8cf8d82b4290692cb9115f34ae9537825f3f74
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Call of Duty: Black Ops Cold War\n[XboxX|中]
-DTEND;VALUE=DATE:20201102
-DTSTAMP;VALUE=DATE:20201101
-DTSTART;VALUE=DATE:20201101
+DESCRIPTION:Call of Duty: Black Ops Cold War\n[PS4|中] [ PS5|中] [ XB1|中] [ 
+ PC|中] [ XboxX|中] [PS4] [ XB1] [NS|中] [ PS4|中] [NS|中]
+DTEND;VALUE=DATE:20201114
+DTSTAMP;VALUE=DATE:20201113
+DTSTART;VALUE=DATE:20201113
 SEQUENCE:0
 SUMMARY:使命召唤 黑色行动 冷战
 UID:dcd63043910179c624e7ee7a5c14a6d4c751dd0c
@@ -1135,7 +1136,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
  xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
- |中] [XboxX|中] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [XboxX] [Xb
+ |中] [XboxX|中] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [Xb
  oxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX] [XboxX] [Xbo
  xX] [XboxX] [PC|中] [XboxX|中] [XboxX] [XboxX] [PC|中] [ XB1|中] [ XboxX|中] [
  XboxX] [PC|中] [XB1|中] [ XboxX|中] [ PC|中]
@@ -1359,5 +1360,27 @@ DTSTART;VALUE=DATE:20201212
 SEQUENCE:0
 SUMMARY:阿尔巴：荒野冒险
 UID:48ba5dfae0a4622c6f627f34dbf187df03a80cae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Marvel's Spider-Man Miles Morales\n[PS5|中] [ PS4|中] [PS4|中] [ 
+ PC|中] [ NS|中] [PS5|中] [PS5|中] [PS5|中] [PS5] [PS5|中] [PS5] [PS5|中] [PS5|中]
+  [PS5|中] [PS4|中] [PS5|中] [PS5] [PS4|中] [ PC|中] [ PS5|中] [ iOS|中] [PS5] [P
+ C] [ PS5] [PS5|中] [ PS4|中] [PS5] [PS5] [PC|中] [ PS5|中] [ PS4|中] [NS|中] [ 
+ PS4|中] [ XB1|中] [ Stadia] [PS5] [PS5|中] [PS5]
+DTEND;VALUE=DATE:20201113
+DTSTAMP;VALUE=DATE:20201112
+DTSTART;VALUE=DATE:20201112
+SEQUENCE:0
+SUMMARY:蜘蛛侠 迈尔斯·莫拉莱斯
+UID:cc34e45fbef56280cc580bdcf580bb77e4e6ae0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mortal Kombat 11\n[PS5|中] [ XboxX|中] [PS4|中] [ NS|中] [PS4|中]
+DTEND;VALUE=DATE:20201118
+DTSTAMP;VALUE=DATE:20201117
+DTSTART;VALUE=DATE:20201117
+SEQUENCE:0
+SUMMARY:真人快打11
+UID:1d66d08038ab539e2b6bf5fc23dc69a4df2926a4
 END:VEVENT
 END:VCALENDAR
