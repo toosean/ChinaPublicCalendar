@@ -730,8 +730,11 @@ SUMMARY:王国之心 记忆旋律
 UID:3b0f652d42c0ca98e93222d9046088a511d5f74f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sakuna: Of Rice and Ruin\n[PS4] [ PC] [ NS|中] [NS|中] [ PS4|中] 
- [ XB1|中] [ Stadia]
+DESCRIPTION:Sakuna: Of Rice and Ruin\n[PS4|中] [ PC|中] [ NS|中] [PS5|中] [PS5
+ |中] [PS5|中] [ PS4|中] [PS5|中] [PS5] [PS5|中] [PS5] [PS5|中] [PS5|中] [PS5|中] 
+ [PS4|中] [PS5|中] [PS5] [PS4|中] [ PC|中] [ PS5|中] [ iOS|中] [PS5] [PC] [ PS5]
+  [PS5] [PS5|中] [ PS4|中] [PS5|中] [PS5|中] [PC|中] [ PS5|中] [ PS4|中] [NS|中] [
+  PS4|中] [ XB1|中] [ Stadia] [PS5|中] [PS5|中] [PS5|中] [PS5]
 DTEND;VALUE=DATE:20201113
 DTSTAMP;VALUE=DATE:20201112
 DTSTART;VALUE=DATE:20201112
@@ -1136,11 +1139,11 @@ UID:b0a89ef0f248dd35b9fd0ad4e8be7007dff6204d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
- xX|中] [XboxX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX
- |中] [XboxX|中] [XboxX|中] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Sta
- dia|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX] [X
- boxX] [XboxX] [XboxX] [PC|中] [XboxX|中] [XboxX] [XboxX] [PC|中] [ XB1|中] [ 
- XboxX|中] [XboxX] [PC|中] [ XboxX] [XB1|中] [ XboxX|中] [ PC|中]
+ xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
+ |中] [XboxX|中] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [Xb
+ oxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX] [XboxX] [Xbo
+ xX] [XboxX] [PC|中] [XboxX|中] [XboxX] [XboxX|中] [PC|中] [ XB1|中] [ XboxX|中]
+  [XboxX|中] [PC|中] [ XboxX] [XB1|中] [ XboxX|中] [ PC|中]
 DTEND;VALUE=DATE:20201111
 DTSTAMP;VALUE=DATE:20201110
 DTSTART;VALUE=DATE:20201110
@@ -1159,7 +1162,7 @@ UID:d5884bcee2353c794f701447e3a4df2e78183336
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Destiny 2\n[XboxX|中] [ PS5|中] [PS5|中] [XboxX] [ XB1] [ PC|中] [
- NS] [ PS4] [ XB1] [ XboxX] [ PS5]
+ NS] [ PS4] [ XB1] [ XboxX] [ PS5] [XboxX|中]
 DTEND;VALUE=DATE:20201209
 DTSTAMP;VALUE=DATE:20201208
 DTSTART;VALUE=DATE:20201208
@@ -1385,14 +1388,11 @@ SUMMARY:真人快打11
 UID:1d66d08038ab539e2b6bf5fc23dc69a4df2926a4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Rainbow Six: Siege\n[PS5|中] [PS4|中] [ PC|中] [ NS|中] [PS5|中] [ 
- PS4|中] [PS5|中] [PS5|中] [PS5|中] [PS5] [PS5|中] [PS5] [PS5|中] [PS5|中] [PS5|中
- ] [PS4|中] [PS5|中] [PS5] [PS4|中] [ PC|中] [ PS5|中] [ iOS|中] [PS5] [PC] [ PS
- 5] [PS5] [PS5|中] [ PS4|中] [PS5] [PS5] [PC|中] [ PS5|中] [ PS4|中] [NS|中] [ P
- S4|中] [ XB1|中] [ Stadia] [PS5] [PS5|中] [PS5] [PS5]
-DTEND;VALUE=DATE:20201113
-DTSTAMP;VALUE=DATE:20201112
-DTSTART;VALUE=DATE:20201112
+DESCRIPTION:Rainbow Six: Siege\n[XboxX|中] [ PS5|中] [PS4|中] [ XB1|中] [ PC|中
+ ] [PC|中] [ NS] [ PS4] [ XB1] [XB1] [ XboxX]
+DTEND;VALUE=DATE:20201202
+DTSTAMP;VALUE=DATE:20201201
+DTSTART;VALUE=DATE:20201201
 SEQUENCE:0
 SUMMARY:彩虹六号：围攻
 UID:c7f44b0f95e3ad5e53e889e5cea8c0e66304ba1e
