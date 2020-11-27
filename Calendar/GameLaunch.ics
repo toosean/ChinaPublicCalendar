@@ -1142,8 +1142,8 @@ DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
  xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
  |中] [XboxX|中] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [Xb
  oxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX] [XboxX] [Xbo
- xX] [XboxX] [PC|中] [XboxX|中] [XboxX] [XboxX|中] [PC|中] [ XB1|中] [ XboxX|中]
-  [XboxX|中] [PC|中] [ XboxX] [XB1|中] [ XboxX|中] [ PC|中]
+ xX] [XboxX] [PC|中] [XboxX|中] [XboxX] [NS|中] [XboxX|中] [PC|中] [ XB1|中] [ X
+ boxX|中] [XboxX|中] [PC|中] [ XboxX] [XB1|中] [ XboxX|中] [ PC|中]
 DTEND;VALUE=DATE:20201111
 DTSTAMP;VALUE=DATE:20201110
 DTSTART;VALUE=DATE:20201110
@@ -1405,5 +1405,14 @@ DTSTART;VALUE=DATE:20201126
 SEQUENCE:0
 SUMMARY:星际战甲
 UID:b09c3d367acbb8f41a0aa5b5a769a446b2d141d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:サクラ革命〜華咲く乙女たち〜\n[iOS] [ Android]
+DTEND;VALUE=DATE:20201216
+DTSTAMP;VALUE=DATE:20201215
+DTSTART;VALUE=DATE:20201215
+SEQUENCE:0
+SUMMARY:樱花革命 ～绽放的少女们～
+UID:943bce6ed0d71da9a7ec3169f8a097d7cabfb663
 END:VEVENT
 END:VCALENDAR
