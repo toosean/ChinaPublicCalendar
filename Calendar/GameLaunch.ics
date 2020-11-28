@@ -1079,7 +1079,7 @@ SUMMARY:Go！Go！5次元游戏：海王星 逆转
 UID:a974240e70f5202343d1e4b86e950b2e9c75d5cc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ANNO: Mutationem\n[PS4|中] [PC|中]
+DESCRIPTION:ANNO: Mutationem\n[PS4|中]
 DTEND;VALUE=DATE:20201202
 DTSTAMP;VALUE=DATE:20201201
 DTSTART;VALUE=DATE:20201201
@@ -1139,8 +1139,8 @@ UID:b0a89ef0f248dd35b9fd0ad4e8be7007dff6204d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Forza Horizon 4\n[XboxX|中] [XboxX|中] [XboxX] [ XB1] [ PC] [Xbo
- xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XB1|中] [ XboxX|中] [XboxX
- |中] [XboxX|中] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [Xb
+ xX|中] [XboxX|中] [XboxX] [ PS4|中] [ XB1] [XboxX] [XboxX|中] [XboxX|中] [XB1|
+ 中] [ XboxX|中] [XboxX] [XboxX|中] [ PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [Xb
  oxX|中] [XboxX|中] [XboxX|中] [XboxX|中] [XboxX] [XboxX] [XboxX] [XboxX] [Xbo
  xX] [XboxX] [PC|中] [XboxX|中] [XboxX] [NS|中] [XboxX|中] [PC|中] [ XB1|中] [ X
  boxX|中] [XboxX|中] [PC|中] [ XboxX] [XB1|中] [ XboxX|中] [ PC|中]
