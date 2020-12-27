@@ -1053,9 +1053,9 @@ SUMMARY:噗哟噗哟对俄罗斯方块2
 UID:0ffa8f0b031c2058662af8e39135b6bbc66eb767
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:BRIGANDINE: The Legend of Runersia\n[PS4|中] [PS4|中] [ XB1|中] [
-  PC|中] [ Stadia|中] [PS4] [ NS] [NS|中] [ XboxX|中] [ PS5|中] [ PS4|中] [ XB1|
- 中] [NS|中] [ PS4|中] [ PC|中]
+DESCRIPTION:BRIGANDINE: The Legend of Runersia\n[PS4|中] [NS|中] [ PS4|中] [ 
+ PC|中] [PS4|中] [ XB1|中] [ PC|中] [ Stadia|中] [PS4] [ NS] [NS|中] [ XboxX|中] 
+ [ PS5|中] [ PS4|中] [ XB1|中]
 DTEND;VALUE=DATE:20201211
 DTSTAMP;VALUE=DATE:20201210
 DTSTART;VALUE=DATE:20201210
