@@ -15,6 +15,7 @@
 
 所有可用日历在 Calendar 中：
 
+* EPIC.ics - EPIC 商店免费游戏开发时间表。
 * FootballTournament.ics - 足球赛事时间表。
 * GameLaunch.ics - 游戏发售时间表。
 * Holiday.ics - 假日，实际放假的日期，包括调休上班。
