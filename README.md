@@ -4,9 +4,9 @@
 
 ### 如何使用
 
-从下面的日历列表中获得你需要的文件名，然后替换下列地址中的 _cal.ics_，然后再从你的日历应用里订阅这个网址。
+从下面的日历列表中获得你需要的文件名，然后替换下列地址中的 _"cal.ics"_，然后再从你的日历应用里订阅这个网址。
 
-> https://raw.githubusercontent.com/toosean/ChinaPublicCalendar/master/Calendar/cal.ics
+> https://toosean.github.io/ChinaPublicCalendar/Calendar/cal.ics
 
 * Google Calendar: 通过网址添加
 * Microsoft Outlook: 从 Web 订阅
@@ -15,6 +15,7 @@
 
 所有可用日历在 Calendar 中：
 
+* EPIC.ics - EPIC 商店免费游戏开发时间表。
 * FootballTournament.ics - 足球赛事时间表。
 * GameLaunch.ics - 游戏发售时间表。
 * Holiday.ics - 假日，实际放假的日期，包括调休上班。
